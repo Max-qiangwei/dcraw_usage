@@ -1,6 +1,6 @@
 # dcraw usage
 
-Max Chen
+*Max Chen*
 
 Common dcraw commands, and how to use dcraw commands to process images with Python or MATLAB.
 
