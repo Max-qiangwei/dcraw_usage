@@ -1,3 +1,8 @@
+%{
+Author: Max Chen
+E-mail: max.chen.l.w@gmail.com
+%}
+
 
 path = 'test.CR2';
 dcraw_command = 'dcraw -v -4 -T';

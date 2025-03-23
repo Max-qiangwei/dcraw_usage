@@ -1,3 +1,8 @@
+"""
+Author: Max Chen
+E-mail: max.chen.l.w@gmail.com
+"""
+
 import matplotlib
 matplotlib.use('TkAgg')
 import matplotlib.pyplot as plt
